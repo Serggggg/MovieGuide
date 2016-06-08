@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<preference-headers
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <header
+        android:fragment="com.serggggg.movieguide.app.ui.SettingsFragment"
+        android:title="@string/common_preferences"
+        android:summary="@string/common_preferences_summary" />
+
+</preference-headers>

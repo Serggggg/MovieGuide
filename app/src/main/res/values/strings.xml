@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">MovieGuide</string>
+
+    <string name="menu_item_settings">Settings</string>
+    <string name="dummy_text">Dummy Text</string>
+    <string name="dummy_long_text">You will notice that the API response provides a relative path to a movie poster image when you request the metadata for a specific movie.</string>
+    <string name="preferences">Preferences</string>
+    <string name="common_preferences">Common preferences</string>
+    <string name="common_preferences_summary">Common preferences of application</string>
+    <string name="make_as_fav">Make as favorite</string>
+
+    <string name="api_key">WRITE YOUR API KEY HERE</string>
+
+    <string name="prefs_image_size_prefix_key" translatable="false">image_size_prefix</string>
+    <string name="prefs_search_type_key" translatable="false">search_type</string>
+    <string name="prefs_search_type_default" translatable="false">popular</string>
+    <string name="prefs_search_type_label">Search type</string>
+    <string-array name="prefs_search_type">
+        <item>Most popular</item>
+        <item>Top rated</item>
+    </string-array>
+    <string-array name="prefs_search_type_values">
+        <item>popular</item>
+        <item>top_rated</item>
+    </string-array>
+
+
+</resources>
